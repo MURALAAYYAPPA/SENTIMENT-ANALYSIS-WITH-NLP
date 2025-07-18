@@ -3,7 +3,7 @@ COMPANY : CODTECH IT SOLUTIONS
 
 NAME : MURALA AYYAPPA
 
-INTERN ID : CT04DF2780
+INTERN ID : CT04DH168
 
 DOMAIN : MACHINE LEARNING
 
@@ -77,3 +77,4 @@ Filtering inappropriate content in comment sections
 summarizing public opinions about movies, events, products, or services
 
 OUTPUT :
+<img width="708" height="472" alt="Image" src="https://github.com/user-attachments/assets/886e1f55-1423-4df2-961f-fe5a879e71b6" />
